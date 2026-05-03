@@ -103,7 +103,7 @@ Transit jusqu'à Badaussee + Rando à prévoir
 *Troisième Camping du 10/08 au 14/08*
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
 
-* Un premier camping au pied des alpages
+* Un premier camping au pied des alpages (choix fait sur les trajets modifiés komoot)
 
 Site : https://www.camping-altaussee.com/en/
 
@@ -117,12 +117,18 @@ Google : https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
 
 
 ### Jour 8 : mardi 11 août 2026
-Badaussee1
-<iframe src="https://www.komoot.com/fr-fr/tour/2765435042/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+Badaussee1 modifié
+<iframe src="https://www.komoot.com/fr-fr/tour/2930828887/embed?share_token=abmiYNaAFPNdaWY41Df9u8jBFKbFkDesXUeKKOmIpjaR7FFKod&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
+
+<!-- L'ancien -->
+<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765435042/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 ### Jour 9 : mercredi 12 août 2026
-Badaussee2
-<iframe src="https://www.komoot.com/fr-fr/tour/2765437040/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+Badaussee2 modifié
+<iframe src="https://www.komoot.com/fr-fr/tour/2930872695/embed?share_token=a1UVtcNBCAFr0xmn5wvfbC3qElvfE5ia1wU5w03caLPT2rml13&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
+
+<!-- L'ancien -->
+<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765437040/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 ### Jour 10 : jeudi 13 août 2026
 Rando Naturschutzgebiet Westteil des toten Gebirges
