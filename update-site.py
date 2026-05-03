@@ -27,27 +27,16 @@ if not head_match:
 head_part = head_match.group(1)
 tail_part = '\n</body>\n</html>'
 
-# Convert markdown to HTML while preserving HTML blocks
 html_content = md_content
 
-# Protect HTML content (iframes, all HTML tags)
-protected = {}
-counter = 0
+# Protect iframes - use simple placeholder approach
+iframes = []
+def save_iframe(match):
+    iframes.append(match.group(0))
+    return f'___IFRAME_{len(iframes)-1}___'
 
-# Protect iframes and any HTML tags (they shouldn't be converted)
-def protect_html(text):
-    global counter
-    def replace_match(match):
-        global counter
-        key = f'___PROTECTED_{counter}___'
-        protected[key] = match.group(0)
-        counter += 1
-        return key
-    # Match any HTML tags including iframes
-    text = re.sub(r'<[^>]+(?:>.*?</[^>]+>|/>)', replace_match, text, flags=re.DOTALL)
-    return text
-
-html_content = protect_html(html_content)
+# Protect all iframes before markdown processing
+html_content = re.sub(r'<iframe[^>]*>.*?</iframe>', save_iframe, html_content, flags=re.DOTALL)
 
 # Simple markdown conversion
 html_content = re.sub(r'^### (.*?)$', r'<h3>\1</h3>', html_content, flags=re.MULTILINE)
@@ -59,9 +48,9 @@ html_content = re.sub(r'!\[(.*?)\]\((.*?)\)', r'<img src="\2" alt="\1">', html_c
 html_content = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', html_content)
 html_content = re.sub(r'^\* (.*?)$', r'<li>\1</li>', html_content, flags=re.MULTILINE)
 
-# Restore protected content BEFORE wrapping in paragraphs
-for key, value in protected.items():
-    html_content = html_content.replace(key, value)
+# Restore iframes
+for i, iframe in enumerate(iframes):
+    html_content = html_content.replace(f'___IFRAME_{i}___', iframe)
 
 # Combine and write output
 output_html = head_part + '\n' + html_content + tail_part
