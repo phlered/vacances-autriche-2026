@@ -6,7 +6,16 @@
 Lien vers la oebb : 
 https://www.oebb.at/en/
 
-## Planning + Campings
+
+## Campings
+(autres choix possibles, à confirmer)
+
+1. du 3/08 au 7/08 : Camping Fenninger­spitz https://www.camping-fenningerspitz.at/
+2. du 7/08 au 10/08 : Camping Grabner 
+https://www.camping-grabner.at/en/
+3. du 10/08 au 14/08 : Camping Altaussee https://www.camping-altaussee.com/en/
+
+## Planning
 
 ### J-N : 
 Les Toulonnais visitent l'Italie pour se rapprocher
