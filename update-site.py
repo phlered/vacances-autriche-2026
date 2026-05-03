@@ -65,6 +65,42 @@ for i, part in enumerate(parts):
         
         # List items
         text = re.sub(r'^\* (.*?)$', r'<li>\1</li>', text, flags=re.MULTILINE)
+
+        # Build block-level HTML so line breaks are visible in browser rendering.
+        lines = text.splitlines()
+        rendered_lines = []
+        in_list = False
+
+        for line in lines:
+            stripped = line.strip()
+
+            if not stripped:
+                if in_list:
+                    rendered_lines.append('</ul>')
+                    in_list = False
+                rendered_lines.append('')
+                continue
+
+            if re.match(r'^<li>.*</li>$', stripped):
+                if not in_list:
+                    rendered_lines.append('<ul>')
+                    in_list = True
+                rendered_lines.append(stripped)
+                continue
+
+            if in_list:
+                rendered_lines.append('</ul>')
+                in_list = False
+
+            if re.match(r'^<(h1|h2|h3|img|iframe|ul|/ul|li|/li|p|/p|em|strong|a)(\s|>|/)', stripped):
+                rendered_lines.append(stripped)
+            else:
+                rendered_lines.append(f'<p>{stripped}</p>')
+
+        if in_list:
+            rendered_lines.append('</ul>')
+
+        text = '\n'.join(rendered_lines)
         
         html_parts.append(text)
 
