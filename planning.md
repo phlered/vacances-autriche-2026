@@ -102,7 +102,8 @@ Transit jusqu'à Badaussee + Rando à prévoir
 
 *Troisième Camping du 10/08 au 14/08*
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
-* Un premier camping un peu loin en altitude (peut être pas une bonne idée ?)
+
+* Un premier camping au pied des alpages
 
 Site : https://www.camping-altaussee.com/en/
 
