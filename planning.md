@@ -10,8 +10,10 @@ Les Toulonnais visitent l'Italie pour se rapprocher
 
 ### Jour 0 : lundi 3 août 2026
 Trajet routier jusqu'à Salzburg (9h30 depuis Auxerre)
-on irait directement au camping au Wallersee. 
+on irait directement au camping au Wallersee.
+
 *Premier camping : du 3/08 au 7/08*
+
 Par exemple : 
 
 * Camping Fenninger­spitz (1er choix)
@@ -52,6 +54,7 @@ Wallersee2
 Transit jusqu'à Mondsee + Rando à prévoir
 
 *Deuxième camping : du 7/08 au 10/08 :*
+
 * Hideaway Attersee : a l'air idyllique mais j'ai un doute pour la possibilité pour les tentes, à confirmer.
 
 Site https://hideaway-attersee.at/
@@ -64,6 +67,7 @@ Site https://www.camping-grabner.at/en/
 
 Google : https://maps.app.goo.gl/CKRBm4CmjUJ5k4jo9
 (nécessite de rallonger légèrement Attersee 1, pas d'effet sur Attersee 2)
+
 * Camping Seestern : à vérifier
 
 Site https://guide.camping-club.de/campings/293
