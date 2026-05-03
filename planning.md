@@ -79,7 +79,7 @@ Attersee2
 ### Jour 7 : lundi 10 août           2026
 Transit jusqu'à Badaussee + Rando à prévoir
 
-*Troisième Camping du 10/08 au 13/08*
+*Troisième Camping du 10/08 au 14/08*
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
 * https://www.camping-altaussee.com/en/
 https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8
