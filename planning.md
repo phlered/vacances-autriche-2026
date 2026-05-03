@@ -14,7 +14,7 @@ on irait directement au camping au Wallersee.
 *Premier camping : du 3/08 au 7/08*
 Par exemple : 
 * Neumarkt Strandbad Seecamp
-Site https://www.neumarkt.at/Strandbad_Seecamp
+Site : https://www.neumarkt.at/Strandbad_Seecamp
 Google : https://maps.app.goo.gl/GL55Mviz2bLPTU5f7
 * Camping Fenninger­spitz
 Site https://www.camping-fenningerspitz.at/
@@ -81,11 +81,13 @@ Transit jusqu'à Badaussee + Rando à prévoir
 
 *Troisième Camping du 10/08 au 14/08*
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
-* https://www.camping-altaussee.com/en/
-https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8
+* Un premier camping un peu loin en altitude :
+Site : https://www.camping-altaussee.com/en/
+Google : https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8
 
-* https://www.staudnwirt.at/
-https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
+* Deuxième camping (minimum 5 jours pour la résa sur leur site, on n'y reste que 4 nuits)
+Site :  https://www.staudnwirt.at/
+Google : https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
 
 
 ### Jour 8 : mardi 11 août 2026
