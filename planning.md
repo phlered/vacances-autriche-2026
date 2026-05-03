@@ -100,16 +100,12 @@ Badaussee2
 
 ### Jour 10 : jeudi 13 août 2026
 Rando Naturschutzgebiet Westteil des toten Gebirges
-Quelques exemples : 
+Exemple avec trop de dénivelé, à revoir : 
 
 <iframe src="https://www.komoot.com/fr-fr/tour/2929833845/embed?share_token=akrDF0Iz0sYP4I7Sp7KoChVu1U8pUzQMmQuPF0pWL5VqX5J4QY&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
 
-<iframe src="https://www.komoot.com/fr-fr/tour/2929820728/embed?share_token=aEeyM056g1QKtHQcmuzytqo7rk71wPWHxZsPOzX7vHxXyuSrLv&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
-
-
-(Se raccourcit facilement)
 
 ### Jour 11 : vendredi 14 août 2026
 Retour en Alsace (Strasbourg) ; environ 5 h de route. Peut-être possibilité de voir Eva+Charlène
