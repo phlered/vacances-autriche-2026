@@ -2,7 +2,7 @@
 
 ![Carte globale](carte_globale.png)
 
-![Carte des trains](carte_trains.png)
+![Carte des trains](trains.png)
 Lien vers la oebb : 
 https://www.oebb.at/en/
 
