@@ -13,15 +13,25 @@ Trajet routier jusqu'à Salzburg (9h30 depuis Auxerre)
 on irait directement au camping au Wallersee. 
 *Premier camping : du 3/08 au 7/08*
 Par exemple : 
-* Neumarkt Strandbad Seecamp
-Site : https://www.neumarkt.at/Strandbad_Seecamp
-Google : https://maps.app.goo.gl/GL55Mviz2bLPTU5f7
-* Camping Fenninger­spitz
+
+* Camping Fenninger­spitz (1er choix)
+
 Site https://www.camping-fenningerspitz.at/
+
 Google :https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A
-* Strandbad & Camping Seekirchen
+
+* Strandbad & Camping Seekirchen (2eme choix)
+  
 Site : https://camping-seekirchen.at/
+
 Google : https://maps.app.goo.gl/hEDtHw4SqRMYdKuz7
+
+* Neumarkt Strandbad Seecamp (3eme choix)
+
+Site : https://www.neumarkt.at/Strandbad_Seecamp
+
+Google : https://maps.app.goo.gl/GL55Mviz2bLPTU5f7
+
 
 ### Jour 1 : mardi 4 août 2026
 Repos / Visite de Salzburg
@@ -42,17 +52,24 @@ Wallersee2
 Transit jusqu'à Mondsee + Rando à prévoir
 
 *Deuxième camping : du 7/08 au 10/08 :*
-* Hideaway Attersee
+* Hideaway Attersee : a l'air idyllique mais j'ai un doute pour la possibilité pour les tentes, à confirmer.
+
 Site https://hideaway-attersee.at/
+
 Google https://maps.app.goo.gl/B8vBFSVbR9Z139pY7
 
-* Camping Grabner 
+* Camping Grabner : plus classique ;  A reservation is possible from 3 nights on (generally) – It depends on the season;
+
 Site https://www.camping-grabner.at/en/
+
 Google : https://maps.app.goo.gl/CKRBm4CmjUJ5k4jo9
 (nécessite de rallonger légèrement Attersee 1, pas d'effet sur Attersee 2)
-* Camping Seestern
+* Camping Seestern : à vérifier
+
 Site https://guide.camping-club.de/campings/293
+
 Google : https://maps.app.goo.gl/E1hLoQoXUHyYQL4A7  
+
 E-Mail:
     info@attersee.at (très curieux de savoir si c'est le bon mail, il y a déjà confusion des sites web entre Attersee et Mondsee sur Google !)
     Telefon:
@@ -81,12 +98,16 @@ Transit jusqu'à Badaussee + Rando à prévoir
 
 *Troisième Camping du 10/08 au 14/08*
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
-* Un premier camping un peu loin en altitude :
+* Un premier camping un peu loin en altitude (peut être pas une bonne idée ?)
+
 Site : https://www.camping-altaussee.com/en/
+
 Google : https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8
 
 * Deuxième camping (minimum 5 jours pour la résa sur leur site, on n'y reste que 4 nuits)
+
 Site :  https://www.staudnwirt.at/
+
 Google : https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
 
 
