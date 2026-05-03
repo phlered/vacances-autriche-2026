@@ -1,4 +1,4 @@
-# Vacances Salzkammergut Août 2026
+# Vacances Salzkammergut en Août 2026
 
 ![Carte globale](carte_globale.png)
 
