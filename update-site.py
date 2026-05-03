@@ -1,10 +1,22 @@
 #!/usr/bin/env python3
 """
-Convert planning.md to index.html and planning.html
-Preserves the HTML head section from index.html as template
+Convert planning.md to index.html.
+Uses template.html for the shared HTML shell.
 """
 
+import argparse
 import re
+import subprocess
+import sys
+
+
+FILES_TO_STAGE = [
+    'planning.md',
+    'template.html',
+    'styles.css',
+    'update-site.py',
+    'index.html',
+]
 
 def read_file(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -14,16 +26,60 @@ def write_file(path, content):
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
 
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description='Generate index.html from planning.md.'
+    )
+    parser.add_argument(
+        '--no-push',
+        action='store_true',
+        help='Generate index.html without committing or pushing changes.',
+    )
+    parser.add_argument(
+        '--message',
+        default='Update site',
+        help='Commit message to use for the automatic commit.',
+    )
+    return parser.parse_args()
+
+
+def run_command(command):
+    subprocess.run(command, check=True)
+
+
+def commit_and_push(commit_message):
+    try:
+        run_command(['git', 'add', *FILES_TO_STAGE])
+
+        staged_changes = subprocess.run(
+            ['git', 'diff', '--cached', '--quiet'],
+            check=False,
+        )
+        if staged_changes.returncode == 0:
+            print('✓ No changes to commit')
+            return
+
+        run_command(['git', 'commit', '-m', commit_message])
+        run_command(['git', 'push'])
+        print('✓ Committed and pushed changes')
+    except subprocess.CalledProcessError as exc:
+        print(f'Error: git command failed with exit code {exc.returncode}')
+        sys.exit(exc.returncode)
+
+
+args = parse_args()
+
 # Read planning.md content
 md_content = read_file('planning.md')
 
-# Read index.html to extract head only
-html_template = read_file('index.html')
+# Read template.html to extract the HTML shell
+html_template = read_file('template.html')
 
 # Extract everything up to and including <body...> tag
 head_match = re.search(r'(.*?<body[^>]*>)', html_template, re.DOTALL)
 if not head_match:
-    print('Error: Could not find body tag in index.html')
+    print('Error: Could not find body tag in template.html')
     exit(1)
 
 head_part = head_match.group(1)
@@ -110,6 +166,8 @@ html_content = ''.join(html_parts)
 output_html = head_part + '\n' + html_content + tail_part
 
 write_file('index.html', output_html)
-write_file('planning.html', output_html)
 
-print('✓ Updated index.html and planning.html from planning.md')
+print('✓ Updated index.html from planning.md')
+
+if not args.no_push:
+    commit_and_push(args.message)

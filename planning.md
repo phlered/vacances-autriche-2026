@@ -107,6 +107,7 @@ Transit jusqu'à Badaussee + Rando à prévoir
 Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
 
 * Un premier camping au pied des alpages (choix fait sur les trajets modifiés komoot)
+Réservation possible à partir de 4 nuits (OK pour nous) 
 
 Site : https://www.camping-altaussee.com/en/
 
@@ -140,7 +141,9 @@ Exemple avec trop de dénivelé, à revoir :
 <iframe src="https://www.komoot.com/fr-fr/tour/2929833845/embed?share_token=akrDF0Iz0sYP4I7Sp7KoChVu1U8pUzQMmQuPF0pWL5VqX5J4QY&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
 
+Autre balade beaucoup plus facile :
 
+<iframe src="https://www.komoot.com/fr-fr/tour/2930969426/embed?share_token=a6AXFc7PYSVBaP8vRxtLVb4jG1ULixQOk8vsSJBl0P3MrktKK2&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
 ### Jour 11 : vendredi 14 août 2026
 Retour en Alsace (Strasbourg) ; environ 5 h de route. Peut-être possibilité de voir Eva+Charlène

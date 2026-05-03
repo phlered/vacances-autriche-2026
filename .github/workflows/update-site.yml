@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'planning.md'
+      - 'template.html'
+      - 'update-site.py'
     branches:
       - main
 
@@ -29,5 +31,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add index.html planning.html
+          git add index.html
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update site from planning.md" && git push)
