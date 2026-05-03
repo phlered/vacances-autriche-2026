@@ -50,8 +50,11 @@ for i, part in enumerate(parts):
         # Images before links to avoid conflicts
         text = re.sub(r'!\[(.*?)\]\((.*?)\)', r'<img src="\2" alt="\1">', text)
         
-        # Links
+        # Links with markdown syntax
         text = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', text)
+        
+        # Bare URLs - convert to clickable links
+        text = re.sub(r'(?<!href=")(?<!href=\')(?<!>)(https?://[^\s<>]+)', r'<a href="\1">\1</a>', text)
         
         # Bold
         text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
