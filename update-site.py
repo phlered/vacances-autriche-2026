@@ -62,7 +62,6 @@ for i, part in enumerate(parts):
         
         # Italic
         text = re.sub(r'\*(.*?)\*', r'<em>\1</em>', text)
-        text = re.sub(r'_(.*?)_', r'<em>\1</em>', text)
         
         # List items
         text = re.sub(r'^\* (.*?)$', r'<li>\1</li>', text, flags=re.MULTILINE)
