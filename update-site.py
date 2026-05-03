@@ -55,8 +55,8 @@ html_content = re.sub(r'^## (.*?)$', r'<h2>\1</h2>', html_content, flags=re.MULT
 html_content = re.sub(r'^# (.*?)$', r'<h1>\1</h1>', html_content, flags=re.MULTILINE)
 html_content = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', html_content)
 html_content = re.sub(r'__(.*?)__', r'<strong>\1</strong>', html_content)
-html_content = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', html_content)
 html_content = re.sub(r'!\[(.*?)\]\((.*?)\)', r'<img src="\2" alt="\1">', html_content)
+html_content = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', html_content)
 html_content = re.sub(r'^\* (.*?)$', r'<li>\1</li>', html_content, flags=re.MULTILINE)
 
 # Restore protected content BEFORE wrapping in paragraphs
