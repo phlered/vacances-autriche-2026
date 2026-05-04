@@ -55,7 +55,10 @@ https://www.salzburg.info/fr
 
 ### Jour 2 : mercredi 5 août 2026
 Wallersee1
-<iframe src="https://www.komoot.com/fr-fr/tour/2765397044/embed?share_token=aR9z4DmaVX98Bl16u4EX4J7d9vZshFUdqXqqe0AEAumBumAb50&amp;layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://www.komoot.com/fr-fr/tour/2933648831/embed?share_token=aRn8nAYNZSyg2xiLoYp1jghTWlrwNKiQy8JPPXOV70MQp5LI4Q&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
+
+<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765397044/embed?share_token=aR9z4DmaVX98Bl16u4EX4J7d9vZshFUdqXqqe0AEAumBumAb50&amp;layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 
 ### Jour 3 : jeudi 6 août 2026
