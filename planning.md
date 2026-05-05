@@ -48,7 +48,7 @@ Google : https://maps.app.goo.gl/GL55Mviz2bLPTU5f7
 
 
 ### Jour 1 : mardi 4 août 2026
-Repos / Visite de Salzburg
+Repos / Visite de Salzburg (20 minutes en voiture depuis le camping)
 
 https://www.salzburg.info/fr
 
@@ -56,6 +56,11 @@ https://www.salzburg.info/fr
 ### Jour 2 : mercredi 5 août 2026
 Wallersee1
 
+Version courte : 
+<iframe src="https://www.komoot.com/fr-fr/tour/2934073761/embed?share_token=a04gk2OHBkY8OeTKJgNI5vsuOOfNN1ivQpTukbHzlVbSIPEjf6&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
+
+
+L'ancienne version plus longue :
 <iframe src="https://www.komoot.com/fr-fr/tour/2933648831/embed?share_token=awDk3D47zNNDmYRedjLUp73CMNKjH3USOoxqw2YqStqyjQkli9&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
 
