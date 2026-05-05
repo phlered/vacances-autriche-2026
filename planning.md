@@ -65,7 +65,6 @@ L'ancienne version plus longue :
 <iframe src="https://www.komoot.com/fr-fr/tour/2933648831/embed?share_token=awDk3D47zNNDmYRedjLUp73CMNKjH3USOoxqw2YqStqyjQkli9&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
 
-<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765397044/embed?share_token=aR9z4DmaVX98Bl16u4EX4J7d9vZshFUdqXqqe0AEAumBumAb50&amp;layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 
 ### Jour 3 : jeudi 6 août 2026
@@ -143,15 +142,11 @@ Google : https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
 Badaussee1 modifié
 <iframe src="https://www.komoot.com/fr-fr/tour/2930828887/embed?share_token=abmiYNaAFPNdaWY41Df9u8jBFKbFkDesXUeKKOmIpjaR7FFKod&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
-<!-- L'ancien -->
-<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765435042/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 ### Jour 9 : mercredi 12 août 2026
 Badaussee2 modifié
 <iframe src="https://www.komoot.com/fr-fr/tour/2930872695/embed?share_token=a1UVtcNBCAFr0xmn5wvfbC3qElvfE5ia1wU5w03caLPT2rml13&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
 
-<!-- L'ancien -->
-<!-- <iframe src="https://www.komoot.com/fr-fr/tour/2765437040/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe> -->
 
 ### Jour 10 : jeudi 13 août 2026
 Rando Naturschutzgebiet Westteil des toten Gebirges
