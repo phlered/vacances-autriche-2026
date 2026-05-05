@@ -10,10 +10,11 @@ https://www.oebb.at/en/
 ## Campings
 (autres choix possibles, à confirmer)
 
-1. du 3/08 au 7/08 : Camping Fenninger­spitz https://www.camping-fenningerspitz.at/
-2. du 7/08 au 10/08 : Camping Grabner 
-https://www.camping-grabner.at/en/
-3. du 10/08 au 14/08 : Camping Altaussee https://www.camping-altaussee.com/en/
+| Date | Nom du camping | Site | Google |
+| --- | --- | --- | --- |
+| du 3/08 au 7/08 | Camping Fenningerspitz | https://www.camping-fenningerspitz.at/ | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
+| du 7/08 au 10/08 | Camping Grabner | https://www.camping-grabner.at/en/ | https://maps.app.goo.gl/CKRBm4CmjUJ5k4jo9 |
+| du 10/08 au 14/08 | Camping Altaussee | https://www.camping-altaussee.com/en/ | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 |
 
 ## Planning
 
