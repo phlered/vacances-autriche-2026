@@ -90,8 +90,6 @@ Transit jusqu'à Badaussee + Rando à prévoir
 
 
 
-
-
 ### Jour 8 : mardi 11 août 2026
 Badaussee1 modifié
 <iframe src="https://www.komoot.com/fr-fr/tour/2930828887/embed?share_token=abmiYNaAFPNdaWY41Df9u8jBFKbFkDesXUeKKOmIpjaR7FFKod&amp;layout=gallery&amp;gallery=1" width="100%" height="640" frameborder="0" scrolling="no"></iframe>
