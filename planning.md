@@ -8,13 +8,12 @@ https://www.oebb.at/en/
 
 
 ## Campings
-(autres choix possibles, à confirmer)
 
 | Date | Nom du camping | Site | Google |
 | --- | --- | --- | --- |
-| du 3/08 au 7/08 | Camping Fenningerspitz | [site](https://www.camping-fenningerspitz.at/) | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
-| du 7/08 au 10/08 | Föttinger Attersee | [site](https://www.hotel-attersee.at/index.php?id=24) | https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7|
-| du 10/08 au 14/08 | Camping Altaussee | [site](https://www.camping-altaussee.com/en/) | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 | 
+| du 3/08 au 7/08 | Camping Fenningerspitz | [site](https://www.camping-fenningerspitz.at/) | [Google Maps](https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A) |
+| du 7/08 au 10/08 | Föttinger Attersee | [site](https://www.hotel-attersee.at/index.php?id=24) | [Google Maps](https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7) |
+| du 10/08 au 14/08 | Camping Altaussee | [site](https://www.camping-altaussee.com/en/) | [Google Maps](https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8) | 
 
 ## Planning
 
@@ -28,9 +27,11 @@ on irait directement au camping au Wallersee.
 *Premier camping : du 3/08 au 7/08*
 
 
+| Date | Nom du camping | Site | Google |
+| --- | --- | --- | --- |
+| du 3/08 au 7/08 | Camping Fenningerspitz | [site](https://www.camping-fenningerspitz.at/) | [Google Maps](https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A) |
 
 
-| Camping Fenningerspitz | https://www.camping-fenningerspitz.at/ | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
 
 
 ### Jour 1 : mardi 4 août 2026
@@ -61,8 +62,11 @@ Transit jusqu'à Mondsee + Rando à prévoir
 
 *Deuxième camping : du 7/08 au 10/08 :*
 
+| Date | Nom du camping | Site | Google |
+| --- | --- | --- | --- |
+| du 7/08 au 10/08 | Föttinger Attersee | [site](https://www.hotel-attersee.at/index.php?id=24) | [Google Maps](https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7) |
 
-| Föttinger Attersee | https://www.hotel-attersee.at/index.php?id=24 | https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7 |
+
 
 *Rando possible (exemple)*
 <iframe src="https://www.komoot.com/fr-fr/tour/2765514371/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
@@ -80,7 +84,12 @@ Transit jusqu'à Badaussee + Rando à prévoir
 
 *Troisième Camping du 10/08 au 14/08*
 
-| Camping au pied des alpages | https://www.camping-altaussee.com/en/ | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 |
+| Date | Nom du camping | Site | Google |
+| --- | --- | --- | --- |
+| du 10/08 au 14/08 | Camping Altaussee | [site](https://www.camping-altaussee.com/en/) | [Google Maps](https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8) | 
+
+
+
 
 
 ### Jour 8 : mardi 11 août 2026
