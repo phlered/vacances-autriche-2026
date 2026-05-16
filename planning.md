@@ -12,9 +12,9 @@ https://www.oebb.at/en/
 
 | Date | Nom du camping | Site | Google |
 | --- | --- | --- | --- |
-| du 3/08 au 7/08 | Camping Fenningerspitz | https://www.camping-fenningerspitz.at/ | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
-| du 7/08 au 10/08 | Föttinger Attersee | https://www.hotel-attersee.at/index.php?id=24 | https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7|
-| du 10/08 au 14/08 | Camping Altaussee | https://www.camping-altaussee.com/en/ | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 |
+| du 3/08 au 7/08 | Camping Fenningerspitz | [site](https://www.camping-fenningerspitz.at/) | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
+| du 7/08 au 10/08 | Föttinger Attersee | [site](https://www.hotel-attersee.at/index.php?id=24) | https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7|
+| du 10/08 au 14/08 | Camping Altaussee | [site](https://www.camping-altaussee.com/en/) | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 | 
 
 ## Planning
 
@@ -27,7 +27,7 @@ on irait directement au camping au Wallersee.
 
 *Premier camping : du 3/08 au 7/08*
 
-Par exemple : 
+
 
 
 | Camping Fenningerspitz | https://www.camping-fenningerspitz.at/ | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
