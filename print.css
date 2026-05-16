@@ -17,6 +17,10 @@ h3 {
   break-after: avoid;
 }
 
+h3 {
+  color: #1a7f37;
+}
+
 p,
 li,
 table {
@@ -72,12 +76,19 @@ a.qr-link {
 
 .komoot-preview {
   width: 100%;
-  max-height: 72mm;
+  max-height: 95mm;
   object-fit: contain;
   display: block;
   border: 1px solid #000;
   margin: 0 0 6px 0;
   background: #fff;
+}
+
+img[alt="Carte des trains"] {
+  width: 62%;
+  max-width: 62%;
+  display: block;
+  margin: 4mm auto 2mm auto;
 }
 
 .komoot-footer {

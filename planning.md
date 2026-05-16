@@ -29,23 +29,8 @@ on irait directement au camping au Wallersee.
 
 Par exemple : 
 
-* Camping Fenninger­spitz (1er choix)
 
-Site https://www.camping-fenningerspitz.at/
-
-Google :https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A
-
-* Strandbad & Camping Seekirchen (2eme choix)
-  
-Site : https://camping-seekirchen.at/
-
-Google : https://maps.app.goo.gl/hEDtHw4SqRMYdKuz7
-
-* Neumarkt Strandbad Seecamp (3eme choix)
-
-Site : https://www.neumarkt.at/Strandbad_Seecamp
-
-Google : https://maps.app.goo.gl/GL55Mviz2bLPTU5f7
+| Camping Fenningerspitz | https://www.camping-fenningerspitz.at/ | https://maps.app.goo.gl/o2Yq6fbmH1ggGMQ2A |
 
 
 ### Jour 1 : mardi 4 août 2026
@@ -76,36 +61,8 @@ Transit jusqu'à Mondsee + Rando à prévoir
 
 *Deuxième camping : du 7/08 au 10/08 :*
 
-* Hideaway Attersee : a l'air idyllique mais j'ai un doute pour la possibilité pour les tentes, à confirmer.
 
-Site https://hideaway-attersee.at/
-
-Google https://maps.app.goo.gl/B8vBFSVbR9Z139pY7
-
-* Camping Grabner : plus classique ;  A reservation is possible from 3 nights on (generally) – It depends on the season;
-
-Site https://www.camping-grabner.at/en/
-
-Google : https://maps.app.goo.gl/CKRBm4CmjUJ5k4jo9
-(nécessite de rallonger légèrement Attersee 1, pas d'effet sur Attersee 2)
-
-* Camping Seestern : à vérifier
-
-Site https://guide.camping-club.de/campings/293
-
-Google : https://maps.app.goo.gl/E1hLoQoXUHyYQL4A7  
-
-E-Mail:
-    info@attersee.at (très curieux de savoir si c'est le bon mail, il y a déjà confusion des sites web entre Attersee et Mondsee sur Google !)
-    Telefon:
-    0043 664 3414131
-    PAS DE SITE WEB
-Avis google : pas très clair si OK pour durées réduites ; "Il est important de savoir que ce camping est uniquement destiné aux séjours de longue durée ; il n’est donc pas possible d’y passer une ou deux nuits… Cependant, cette information nous vient de clients qui venaient d’arriver." A l'inverse d'autres y ont passé seulemnt deux nuits, tout en signalant que majoritairement des séjours de longue durée.
-Nécessite de changer le trajet komoot 
-
-REMARQUE:
-Camping sur komoot (prévu initialement) FERMÉ POUR LA SAISON
-`
+| Föttinger Attersee | https://www.hotel-attersee.at/index.php?id=24 | https://maps.app.goo.gl/T5WZK8WGiCR7wxwZ7 |
 
 *Rando possible (exemple)*
 <iframe src="https://www.komoot.com/fr-fr/tour/2765514371/embed?layout=gallery&amp;profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
@@ -122,20 +79,8 @@ Attersee2
 Transit jusqu'à Badaussee + Rando à prévoir
 
 *Troisième Camping du 10/08 au 14/08*
-Plusieurs possibilités, à confirmer. Nécessite de changer un peu le trajet komoot
 
-* Un premier camping au pied des alpages (choix fait sur les trajets modifiés komoot)
-Réservation possible à partir de 4 nuits (OK pour nous) 
-
-Site : https://www.camping-altaussee.com/en/
-
-Google : https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8
-
-* Deuxième camping (minimum 5 jours pour la résa sur leur site, on n'y reste que 4 nuits)
-
-Site :  https://www.staudnwirt.at/
-
-Google : https://maps.app.goo.gl/PWmQSfd9MUtnBXoY7
+| Camping au pied des alpages | https://www.camping-altaussee.com/en/ | https://maps.app.goo.gl/7EFfLQvhx7TJrqLU8 |
 
 
 ### Jour 8 : mardi 11 août 2026
